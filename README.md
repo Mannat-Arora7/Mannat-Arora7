@@ -93,5 +93,3 @@
 ### 🤝 Let's Connect
 
 📩 **mannatarora704@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/mannatpreet-kaur75/)** &nbsp;|&nbsp; 📈 **[Kaggle](https://www.kaggle.com/mannatarora57)** &nbsp;|&nbsp; 💻 **[LeetCode](https://leetcode.com/u/Mannat_Arora7/)**
-
-<p align="center"><i>⭐️ From <a href="https://github.com/Mannat-Arora7">Mannatpreet Kaur</a> — open to Data Analyst roles!</i></p>
