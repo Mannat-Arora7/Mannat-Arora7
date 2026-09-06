@@ -25,10 +25,10 @@
 ### 🙋‍♀️ About Me
 
 - 🔎 I'm a **Data Analyst** who enjoys digging through raw, messy data to find the story behind the numbers.
-- 📊 I build **dashboards, reports, and data-driven narratives** using SQL, Python, Power BI, and Tableau.
+- 📊 I build **dashboards, reports, and data-driven narratives** using SQL, Excel, Python, Power BI, and Tableau.
 - 🧠 I also explore **Machine Learning and Deep Learning** to go beyond descriptive analysis into predictive insights.
 - 📈 My workflow: clean the data → explore it → visualize it → tell a business story that drives decisions.
-- 🎯 Currently looking for **Data Analyst roles** where I can turn data into impact — open to full-time opportunities.
+- 🎯 Always happy to connect with fellow data folks, collaborate on projects, or talk analytics over coffee (virtual or real).
 
 ---
 
@@ -71,11 +71,9 @@
 
 | Project | Description | Tech Used |
 |---|---|---|
-| 🛒 [Maven Market Dashboard](https://github.com/Mannat-Arora7/Maven-Market-Dashboard-PowerBI) | Interactive Power BI dashboard analyzing sales, customer segments, and store performance for a retail chain, with drill-down KPIs | Power BI, DAX |
-| 🏨 [Hotel Booking Analytics Dashboard](https://github.com/Mannat-Arora7/Hotel-Booking-Analytics-Dashboard) | Analyzed booking trends, cancellations, and revenue patterns to uncover insights for improving occupancy and reducing cancellations | Power BI / Tableau, SQL |
-| 🛍️ [Superstore Sales Analysis](https://github.com/Mannat-Arora7/Superstore-Sales-Analysis-Python) | End-to-end EDA on retail sales data — identified top-performing categories, regions, and seasonal trends using Python | Python, Pandas, Matplotlib, Seaborn |
-
-> ⚠️ Update the links above to match your exact repo names once uploaded, and consider adding a one-line "key result" (e.g. a specific % improvement or number of records analyzed) — recruiters respond well to specific, quantified outcomes.
+| 🛒 [Maven Market Dashboard](https://github.com/Mannat-Arora7/Power-Bi-Maven-Market-Dashboard) | Interactive Power BI dashboard analyzing sales, customer segments, and store performance for a retail chain, with drill-down KPIs | Power BI, DAX |
+| 🏨 [Hotel Booking Analytics Dashboard](https://github.com/Mannat-Arora7/Hotel-Booking-Analytics-Dashboard-Power-BI) | Analyzed booking trends, cancellations, and revenue patterns to uncover insights for improving occupancy and reducing cancellations | Power BI / Tableau, SQL |
+| 🛍️ [Superstore Sales Analysis](https://github.com/Mannat-Arora7/SuperStore-Sales-Profitability-Analysis) | End-to-end EDA on retail sales data — identified top-performing categories, regions, and seasonal trends using Python | Python, Pandas, Matplotlib, Seaborn |
 
 ---
 
