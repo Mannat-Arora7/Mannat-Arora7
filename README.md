@@ -83,10 +83,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mannat-Arora7&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  
-</p>
-
 ---
 
 ### 🤝 Let's Connect
