@@ -71,7 +71,7 @@
 
 | Project | Description | Tech Used |
 |---|---|---|
-| 🛒 [Maven Market Dashboard](https://github.com/Mannat-Arora7/Power-Bi-Maven-Market-Dashboard) | Interactive Power BI dashboard analyzing sales, customer segments, and store performance for a retail chain, with drill-down KPIs | Power BI, DAX |
+| 🛒 [Uber Trip Analysis Dashboard](https://github.com/Mannat-Arora7/Uber-Trip-Analysis-Dashboard-Power-BI) | Interactive Power BI dashboard analyzing 103.7K Uber bookings from June 2024, covering payments, vehicle types, day vs. night trips, and pickup/drop-off locations.
 | 🏨 [Hotel Booking Analytics Dashboard](https://github.com/Mannat-Arora7/Hotel-Booking-Analytics-Dashboard-Power-BI) | Analyzed booking trends, cancellations, and revenue patterns to uncover insights for improving occupancy and reducing cancellations | Power BI / Tableau, SQL |
 | 🛍️ [Superstore Sales Analysis](https://github.com/Mannat-Arora7/SuperStore-Sales-Profitability-Analysis) | End-to-end EDA on retail sales data — identified top-performing categories, regions, and seasonal trends using Python | Python, Pandas, Matplotlib, Seaborn |
 
