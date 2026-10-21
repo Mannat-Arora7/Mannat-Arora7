@@ -71,9 +71,9 @@
 
 | Project | Description | Tech Used |
 |---|---|---|
-| 🛒 [Uber Trip Analysis Dashboard](https://github.com/Mannat-Arora7/Uber-Trip-Analysis-Dashboard-Power-BI) | Interactive Power BI dashboard analyzing 103.7K Uber bookings from June 2024, covering payments, vehicle types, day vs. night trips, and pickup/drop-off locations.
-| 🏨 [Hotel Booking Analytics Dashboard](https://github.com/Mannat-Arora7/Hotel-Booking-Analytics-Dashboard-Power-BI) | Analyzed booking trends, cancellations, and revenue patterns to uncover insights for improving occupancy and reducing cancellations | Power BI / Tableau, SQL |
-| 🛍️ [Superstore Sales Analysis](https://github.com/Mannat-Arora7/SuperStore-Sales-Profitability-Analysis) | End-to-end EDA on retail sales data — identified top-performing categories, regions, and seasonal trends using Python | Python, Pandas, Matplotlib, Seaborn |
+| 🛒 [Uber Trip Analysis Dashboard](https://github.com/Mannat-Arora7/Uber-Trip-Analysis-Dashboard-Power-BI) | Interactive Power BI dashboard analyzing 103.7K Uber bookings from June 2024, covering payments, vehicle types, day vs. night trips, and pickup/drop-off locations | Power BI / Excel / Power Query |
+| 🏨 [Hotel Booking Analytics Dashboard](https://github.com/Mannat-Arora7/Hotel-Booking-Analytics-Dashboard-Power-BI) | Analyzed booking trends, cancellations, and revenue patterns to uncover insights for improving occupancy and reducing cancellations | Power BI / Excel / Power Query |
+| 🛍️ [Superstore Sales Analysis](https://github.com/Mannat-Arora7/SuperStore-Sales-Profitability-Analysis) | End-to-end EDA on retail sales data — identified top-performing categories, regions, and seasonal trends using Python | Python, Pandas, NumPy, Matplotlib, Seaborn |
 
 ---
 
