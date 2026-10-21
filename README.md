@@ -77,14 +77,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mannat-Arora7&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 📩 **mannatarora705@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/mannatpreet-kaur75/)** &nbsp;|&nbsp; 📈 **[Kaggle](https://www.kaggle.com/mannatarora57)** &nbsp;|&nbsp; 💻 **[LeetCode](https://leetcode.com/u/Mannat_Arora7/)**
