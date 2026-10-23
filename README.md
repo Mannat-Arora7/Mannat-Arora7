@@ -2,6 +2,10 @@
 <h3 align="center"> Data Analyst | Making Data Make Sense </h3>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Mannatpreet%20Kaur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Tableau%20%E2%80%A2%20ML&descAlignY=55&descSize=17" alt="banner" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mannatpreet-kaur75/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
