@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Mannatpreet Kaur</h1>
 <h3 align="center"> Data Analyst | Making Data Make Sense </h3>
 
---- 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mannatpreet-kaur75/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
