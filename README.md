@@ -22,8 +22,6 @@
 
 ### 🙋‍♀️ About Me
 
-## About Me
-
 I'm a **Data Analyst** who turns raw, messy data into clear insights that support business decisions.
 
 I work across the full analysis cycle: cleaning and preparing data, designing data models, exploring patterns, building dashboards and reports, and presenting findings in a way that stakeholders can act on.
