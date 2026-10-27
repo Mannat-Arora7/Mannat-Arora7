@@ -22,11 +22,19 @@
 
 ### 🙋‍♀️ About Me
 
-- 🔎 I'm a **Data Analyst** who enjoys digging through raw, messy data to find the story behind the numbers.
-- 📊 I build **dashboards, reports, and data-driven narratives** using SQL, Excel, Python, Power BI, and Tableau.
-- 🧠 I also explore **Machine Learning and Deep Learning** to go beyond descriptive analysis into predictive insights.
-- 📈 My workflow: clean the data → explore it → visualize it → tell a business story that drives decisions.
-- 🎯 Always happy to connect with fellow data folks, collaborate on projects, or talk analytics over coffee (virtual or real).
+## About Me
+
+I'm a **Data Analyst** who turns raw, messy data into clear insights that support business decisions.
+
+I work across the full analysis cycle: cleaning and preparing data, designing data models, exploring patterns, building dashboards and reports, and presenting findings in a way that stakeholders can act on.
+
+- **What I do:** build dashboards, reports, and data-driven narratives
+- **Data modeling:** structure data into clean, reliable models that make analysis faster and more accurate
+- **My approach:** clean → model → explore → visualize → tell the story behind the numbers
+
+### Let's Connect
+Open to Data Analyst opportunities and collaborations.
+[LinkedIn](your-link) · [Portfolio](your-link) · [Email](mailto:your-email)
 
 ---
 
