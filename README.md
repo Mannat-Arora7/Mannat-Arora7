@@ -30,10 +30,6 @@ I work across the full analysis cycle: cleaning and preparing data, designing da
 - **Data modeling:** structure data into clean, reliable models that make analysis faster and more accurate
 - **My approach:** clean → model → explore → visualize → tell the story behind the numbers
 
-### Let's Connect
-Open to Data Analyst opportunities and collaborations.
-[LinkedIn](your-link) · [Portfolio](your-link) · [Email](mailto:your-email)
-
 ---
 
 ### 🛠️ Skills & Tools
