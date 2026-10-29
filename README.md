@@ -79,4 +79,4 @@ I work across the full analysis cycle: cleaning and preparing data, designing da
 
 ### 🤝 Let's Connect
 
-📩 **mannatarora705@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/mannatpreet-kaur75/)** &nbsp;|&nbsp; 
+📩 **mannatarora705@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/mannatpreet-kaur75/)** &nbsp;
